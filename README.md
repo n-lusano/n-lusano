@@ -1,4 +1,6 @@
-![Nausicaa](https://github.com/n-lusano/nlusano/blob/master/nl.png)
+<p align="center">
+  <img src="https://github.com/n-lusano/nlusano/blob/master/nl.png">
+</p>
 
 Hello there! My name is Nausicaa:sparkles:, and I recently graduated from [Codaisseur Academy](https://codaisseur.com/) as _Junior Full-stack Developer_. :nerd_face:
 
