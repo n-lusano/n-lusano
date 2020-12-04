@@ -8,4 +8,4 @@ I had no previous experience, but coding has always been a huge interest and a l
 
 I'm putting everything I learned so far to good use, and I'm very excited to have finally entered the development field as a _professional_ :sparkles::sunglasses: as I'm constantly growing and learning :seedling: and I couldn't be happier.
 
-Feel free to reach out! :wave: In the meantime, here's a preview of my **[portfolio](https://nlusano.netlify.app/):sparkles:** (WIP :warning:)!
+Feel free to reach out! :wave: <!-- In the meantime, here's a preview of my **[portfolio](https://nlusano.netlify.app/):sparkles:** (WIP :warning:)! -->
