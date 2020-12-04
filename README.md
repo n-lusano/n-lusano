@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/n-lusano/nlusano/blob/master/nl.png">
+  <img src="https://user-images.githubusercontent.com/59041790/101109237-b328c880-35d6-11eb-9091-773de49c54c5.png">
 </p>
 
 Hello there! My name is Nausicaa:sparkles:, and I recently graduated from [Codaisseur Academy](https://codaisseur.com/) as _Junior Full-stack Developer_ on July 2020. :nerd_face:
