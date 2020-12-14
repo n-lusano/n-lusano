@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59041790/101109237-b328c880-35d6-11eb-9091-773de49c54c5.png">
+  <img src="https://user-images.githubusercontent.com/59041790/102146082-af176900-3e68-11eb-8b74-ef8e98a7f647.png">
 </p>
 
 Hello there! My name is Nausicaa:sparkles:, and I recently graduated as _Junior Full-stack Developer_. :nerd_face:
